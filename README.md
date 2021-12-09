@@ -6,5 +6,5 @@
 
 ## Tech
 
-- Frontend: React Hook, Material-UI, SCSS, MVC pattern
-- Backend: Spring, MVC pattern
+- Frontend: React Hook, Redux, PostCSS
+- Backend: Spring, MySQL, AWS EC2, MVC pattern
